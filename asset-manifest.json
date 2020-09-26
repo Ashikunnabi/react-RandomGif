@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-RandomGif/static/css/main.b9adc408.chunk.css",
+    "main.js": "/react-RandomGif/static/js/main.1d171b67.chunk.js",
+    "main.js.map": "/react-RandomGif/static/js/main.1d171b67.chunk.js.map",
+    "runtime-main.js": "/react-RandomGif/static/js/runtime-main.5e03718d.js",
+    "runtime-main.js.map": "/react-RandomGif/static/js/runtime-main.5e03718d.js.map",
+    "static/js/2.d1dbadcd.chunk.js": "/react-RandomGif/static/js/2.d1dbadcd.chunk.js",
+    "static/js/2.d1dbadcd.chunk.js.map": "/react-RandomGif/static/js/2.d1dbadcd.chunk.js.map",
+    "index.html": "/react-RandomGif/index.html",
+    "precache-manifest.f30262640ab0c913ee8cf31a510739e3.js": "/react-RandomGif/precache-manifest.f30262640ab0c913ee8cf31a510739e3.js",
+    "service-worker.js": "/react-RandomGif/service-worker.js",
+    "static/css/main.b9adc408.chunk.css.map": "/react-RandomGif/static/css/main.b9adc408.chunk.css.map",
+    "static/js/2.d1dbadcd.chunk.js.LICENSE.txt": "/react-RandomGif/static/js/2.d1dbadcd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5e03718d.js",
+    "static/js/2.d1dbadcd.chunk.js",
+    "static/css/main.b9adc408.chunk.css",
+    "static/js/main.1d171b67.chunk.js"
+  ]
+}
